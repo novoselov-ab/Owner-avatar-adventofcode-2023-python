@@ -1,1 +1,7 @@
-# Owner-avatar-adventofcode-2023-python
+# Advent Of Code 2023 in Python
+
+To run:
+
+```bash
+python3 1.py
+```
